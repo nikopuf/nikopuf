@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/imgres?q=animated%20cyber%20gif%20banner&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F91%2F1d%2F91%2F911d914aaf6194489a3f5626bed2bd3a.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgifs--87186942777117153%2F&docid=FqmnO-CCTDEcIM&tbnid=EaWPpiHpi2A1iM&vet=12ahUKEwjgmueAp-aKAxWRB9sEHYCkIIsQM3oECBUQAA..i&w=540&h=302&hcb=2&ved=2ahUKEwjgmueAp-aKAxWRB9sEHYCkIIsQM3oECBUQAA)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nikopuf</h1>
 <h3 align="center">A Senior Cyber Security Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
