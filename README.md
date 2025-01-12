@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **salman143107@gmail.com**
 
-- ⚡ Fun fact **I am a DEVIl of my word**
+- ⚡ Fun fact **I am a DEVIL of my word**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
