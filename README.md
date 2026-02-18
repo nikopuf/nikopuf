@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikopuf&label=Profile%20views&color=0e75b6&style=flat" alt="nikopuf" /> </p>
 
-- 🔭 I’m currently working on **Cybaxe NDR (Sensor & Brain)**
+- 🔭 I’m currently working on **VIGIL EYE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikopuf](https://github.com/nikopuf)
 
 - 💬 Ask me about **DevSecOps**
 
-- 📫 How to reach me **salman143107@gmail.com**
+- 📫 How to reach me **nikopuf@vigil.ai**
 
 - ⚡ Fun fact **I am a DEVIL of my word**
 
