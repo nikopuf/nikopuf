@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikopuf](https://github.com/nikopuf)
 
-- 💬 Ask me about **DevSecOps**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **nikopuf@vigil.ai**
 
